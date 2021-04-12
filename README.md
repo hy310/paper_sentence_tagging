@@ -78,6 +78,7 @@ __2. classify.py__
 - 학습 조건 및 Accuracy
 <img width="400" alt="final_model" src="https://user-images.githubusercontent.com/61795757/99826922-553ebe80-2b9c-11eb-85bf-50b7de3f1cba.PNG">
 
+
 ## Reference
 - [Simple Neural Text Classification](https://github.com/kh-kim/simple-ntc)
 - [KcBERT: Korean comments BERT](https://github.com/Beomi/KcBERT)
